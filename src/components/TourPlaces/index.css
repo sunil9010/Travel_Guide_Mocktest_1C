@@ -1,0 +1,25 @@
+.li {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 445px;
+  margin: 5px;
+}
+.image {
+  height: 220px;
+  width: 440px;
+}
+.para {
+  font-size: 19px;
+  color: #475569;
+  margin-top: 0px;
+}
+.para2 {
+  font-size: 16px;
+  margin: 0px;
+  color: #64748b;
+}
+.para-con {
+  padding: 15px;
+}
